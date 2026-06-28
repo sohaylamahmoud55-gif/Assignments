@@ -1,0 +1,45 @@
+body {
+  width: 100%;
+}
+img {
+  width: 45%;
+  height: 600px;
+  display: inline-block;
+  vertical-align: top;
+}
+.form {
+  width: 45%;
+  display: inline-block;
+}
+h1 {
+  text-align: center;
+}
+hr {
+  border: 1px solid red;
+  margin-bottom: 20px;
+}
+label {
+  width: 120px;
+  display: inline-block;
+  margin-bottom: 20px;
+  vertical-align: top;
+}
+textarea {
+  margin-bottom: 20px;
+}
+.title {
+  width: 150px;
+  display: inline-block;
+}
+.appointment {
+  display: inline-block;
+}
+
+.appointment p {
+  margin-bottom: 8px;
+}
+
+.appointment label {
+  display: inline;
+  margin-bottom: 5px;
+}
