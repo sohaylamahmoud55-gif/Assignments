@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.h-background {
+  height: 100vh;
+  background-image:linear-gradient( rgba(0, 0, 0,0.3) , rgba(0, 0, 0,0.3) ,  rgba(0, 0, 0,0.3) ) , url(../images/bgs.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+h1{
+  text-align: center;
+  position: relative;
+  top: 45%;
+  color: azure;
+}
