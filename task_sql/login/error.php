@@ -2,7 +2,7 @@
 
 session_start();
 require 'validate.php';
-require '../welcome/database.php';
+require '../database.php';
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $email = $_POST['email'];
